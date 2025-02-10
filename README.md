@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kevin!
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/KY-028/resume/blob/9ec73376f92583d753cddb723fc8fdbb2e06c57d/Yao_Kaiwen_Resume_2024.pdf)
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/KY-028/resume/blob/32f4e3e3cce3a19ed1fe0ce58e1e8e2af9fee8c2/Yao_Kaiwen_Resume_2025.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ky028/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaokevin820@gmail.com)
 
