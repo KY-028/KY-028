@@ -6,8 +6,8 @@
 
 ### About Me 👦
 
-- 🌱 I’m currently working 4 part time jobs as Developer, Tutor, Teacher and Teaching Assistant!
-- 📫 How to reach me: yaokevin820@gmail.com
+- 🌱 Teaching Assistant, CS Teacher, Math Tutor, and more!
+- 📫 How to reach me: kevinyao.career@gmail.com
 - 😄 Pronouns: he/him
 
 ### Technologies 👨‍💻
